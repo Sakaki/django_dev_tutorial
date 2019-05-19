@@ -2,6 +2,8 @@
 
 [Django への初めてのパッチを書く](https://docs.djangoproject.com/ja/2.2/intro/contributing/#id12)に掲載されている環境構築を自動化したものです。
 
+MacやWindowsで環境作るのが辛かったり環境を汚したくない場合とかに使ってください。
+
 ## 起動
 
 あらかかじめチュートリアルページで自身のアカウントにdjangoのリポジトリをフォークしておいてください。
