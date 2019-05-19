@@ -6,7 +6,7 @@ MacやWindowsで環境作るのが辛かったり環境を汚したくない場�
 
 ## 起動
 
-あらかかじめチュートリアルページで自身のアカウントにdjangoのリポジトリをフォークしておいてください。
+あらかかじめ[チュートリアル](https://docs.djangoproject.com/ja/2.2/intro/contributing/#id12)に従って、自身のアカウントにdjangoのリポジトリをフォークしておいてください。
 
 ```bash
 git clone https://github.com/Sakaki/django_dev_tutorial.git
